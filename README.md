@@ -40,21 +40,7 @@ MongoDB	Banco de dados NoSQL
 Mongoose	Modelagem de dados
 JWT + Bcrypt	Autenticação segura
 
-Estrutura do Projeto
+Estrutura do Projeto:
 
-.
-├── backend/               # API Node.js
-│   ├── src/
-│   │   ├── config/        # Configurações do banco e ambiente
-│   │   ├── controllers/   # Lógica de negócio
-│   │   ├── models/        # Schemas do MongoDB
-│   │   └── routes/        # Endpoints da API
-│   └── package.json
-│
-└── frontend/              # Aplicação React
-    ├── src/
-    │   ├── components/    # Componentes reutilizáveis
-    │   ├── pages/         # Páginas da aplicação
-    │   └── services/      # Chamadas à API
-    └── package.json
+![image](https://github.com/user-attachments/assets/7c60121c-2de7-4856-8454-bc18a4840561)
 
